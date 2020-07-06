@@ -4,10 +4,10 @@
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : run.py                             #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
-# Telegram       : https://t.me/unikers               #
+# Author         : Rajanta                            #
+# Github         : https://github.com/MrRajanta       #
+# Facebook       : https://www.facebook.com/Rjnta     #
+# Whatsapp       : +62 821-4018-4446.                 #
 # Python version : 2.7                                #
 #######################################################
 

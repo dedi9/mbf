@@ -16,5 +16,5 @@ python2 run.py
 ```
 
 ## Contact
-[Facebook](https://www.facebook.com/dulahz)
-[Telegram](https://t.me/unikers)
+[Facebook](https://www.facebook.com/Rajanta88)
+[What'sApp](+62 821-4018-4446)

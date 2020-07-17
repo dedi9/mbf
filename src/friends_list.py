@@ -4,10 +4,10 @@
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : friends_list.py                    #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
-# Telegram       : https://t.me/unikers               #
+# Author         : Rajanta                            #
+# Github         : https://github.com/MrRajanta       #
+# Facebook       : https://www.facebook.com/Rjnta     #
+# Whatsapp       : +62 821-4018-4446                  #
 # Python version : 2.7                                #
 #######################################################
 
@@ -46,7 +46,7 @@ def main(self, cookie, url, config):
 			print('\n\n\033[0;91mKeyInterrupt, stopped!!\033[0m')
 			break
 	try:
-		for filename in os.listdir('dump'):
+		for filename in os.listdir('dump'):m
 			os.remove('dump/'+filename)
 	except: pass
 	print('\n\nOutput: '+output)
